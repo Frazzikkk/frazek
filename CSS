@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;    
+}
+header {
+height: 70px;
+border-radius: 5px solid #2adede;
+border: 5px solid #2adede;
+}
+
+.frazek {
+    background-color: #2adede;
+    border: 1px solid #2adede;
+}
+
+h1 {
+    background-color: #2adede;
+    color: blueviolet;
+    font-size: 30px;
+    padding: 10px;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+a {
+height: 70px;
+border: 3px solid #2adede;
+}
+
+p img {
+    background-color: #2adede;
+    color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    background-color: #2adede;
+    color: blueviolet;
+    font-size: 20px;
+    padding: 10px;
+}
